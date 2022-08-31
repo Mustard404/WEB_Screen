@@ -8,8 +8,9 @@
 ####    环境准备    
 1.根据本地环境的chrome版本和操作系统下载相关驱动。    
 https://registry.npmmirror.com/binary.html?path=chromedriver/       
--   Windows系统下载完成后，按照目录添加环境变量。参考（https://blog.csdn.net/u011202097/article/details/122168656）； 
--   Linux可以直接复制到/usr/local/bin/目录下；  
+-   Windows系统下载完成后，按照目录添加环境变量。 
+    参考:https://blog.csdn.net/u011202097/article/details/122168656
+-   Linux可以直接复制到/usr/local/bin/目录下； 
 2.安装相关依赖，pip3 install requirements.txt；   
 ####    使用
 1.打开target.xlsx，并填好id、IP、PORT几项信息；   
