@@ -1,0 +1,4 @@
+IPy==1.1
+openpyxl==3.0.10
+selenium==4.3.0
+PyVirtualDisplay==3.0
